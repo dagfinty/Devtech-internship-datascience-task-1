@@ -1,4 +1,4 @@
-📊 Data Science project 2
+📊 Data Science project 1
 ☀️ Weather Data
 
 Analyzed temperature & humidity data
